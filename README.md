@@ -56,11 +56,14 @@ plt.title('Decoded Bits')
 plt.tight_layout()
 plt.show()
 ```
-# Output Waveform
+### Output Waveform
 ![image](https://github.com/user-attachments/assets/e47e3e6b-a8a0-401a-85d5-60fc2c10c061)
 
-# Results
+### Results
 
 The experiment on ASK modulation and demodulation was successfully implemented in Python. The demodulated data matches the original binary input, validating the working of the ASK technique.
 
-# Hardware experiment output waveform.
+### Hardware experiment output waveform.
+
+![WhatsApp Image 2025-04-25 at 13 08 45_c89a47b4](https://github.com/user-attachments/assets/e56f4baa-ed5e-4987-9f67-5bd14ee765d4)
+
